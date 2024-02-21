@@ -1,2 +1,0 @@
-[console_scripts]
-init_dashboard_db = api.db_conn:init_db
